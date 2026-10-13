@@ -1,5 +1,13 @@
 # Nhật ký thay đổi
 
+## 0.1.1 — 13/10/2026
+
+- Thay font hệ thống bằng Newsreader và Be Vietnam Pro đóng gói cục bộ.
+- Bổ sung 5 file WOFF2 có đủ ký tự tiếng Việt và giấy phép OFL.
+- Điều chỉnh khoảng cách dòng, chữ và tiêu đề để dành chỗ cho dấu tiếng Việt.
+- Cập nhật README, nguồn tài nguyên và số phiên bản.
+- Giữ nguyên các chặng và logic game.
+
 ## 0.1.0 — 13/10/2026
 
 - Tạo prototype “Ở đây một lát.” với hai chặng độc lập.

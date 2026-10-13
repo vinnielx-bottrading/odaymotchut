@@ -22,4 +22,7 @@
 - Texture cây và gỗ được vẽ tại runtime bằng Canvas.
 - Mưa, sương và ngọn lửa là hiệu ứng dựng bằng code.
 - Âm thanh là tiếng nền tổng hợp bằng Web Audio; không dùng nhạc hoặc bản ghi thương mại.
-- Phông chữ hệ thống; không tải font từ dịch vụ ngoài.
+- Phông Newsreader (Production Type) và Be Vietnam Pro (Be Vietnam Pro Project Authors).
+- Nguồn phân phối Google Fonts; tải một lần và chuyển sang WOFF2, giữ đầy đủ ký tự. Không gọi dịch vụ font bên ngoài khi chơi.
+- File font, URL nguồn và giấy phép OFL lưu tại `assets/fonts/`.
+- Nguồn dự án: https://github.com/productiontype/Newsreader và https://github.com/bettergui/BeVietnamPro.

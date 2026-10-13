@@ -1,0 +1,27 @@
+{
+  "provider": "Google Fonts",
+  "css_source": "https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,400;1,6..72,400&family=Be+Vietnam+Pro:wght@400;500;600&display=swap",
+  "downloaded": "2026-10-13",
+  "files": [
+    {
+      "file": "be-vietnam-pro-400-normal.woff2",
+      "source": "https://fonts.gstatic.com/s/bevietnampro/v12/QdVPSTAyLFyeg_IDWvOJmVES_Eww.ttf"
+    },
+    {
+      "file": "be-vietnam-pro-500-normal.woff2",
+      "source": "https://fonts.gstatic.com/s/bevietnampro/v12/QdVMSTAyLFyeg_IDWvOJmVES_HTEJl8y.ttf"
+    },
+    {
+      "file": "be-vietnam-pro-600-normal.woff2",
+      "source": "https://fonts.gstatic.com/s/bevietnampro/v12/QdVMSTAyLFyeg_IDWvOJmVES_HToIV8y.ttf"
+    },
+    {
+      "file": "newsreader-400-italic.woff2",
+      "source": "https://fonts.gstatic.com/s/newsreader/v26/cY9kfjOCX1hbuyalUrK439vogqC9yFZCYg7oRZaLP4obnf7fTXglsMwoT-ZA.ttf"
+    },
+    {
+      "file": "newsreader-400-normal.woff2",
+      "source": "https://fonts.gstatic.com/s/newsreader/v26/cY9qfjOCX1hbuyalUrK49dLac06G1ZGsZBtoBCzBDXXD9JVF438weI_ADA.ttf"
+    }
+  ]
+}

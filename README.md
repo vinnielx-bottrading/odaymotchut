@@ -1,9 +1,21 @@
 # Ở đây một lát.
 
-**Bản thử v0.1.0 · 13/10/2026**  
+**Bản thử v0.1.1 · 13/10/2026**  
 Một game khám phá chậm, kết hợp **phong cảnh 2.5D và tương tác 3D**, dành cho những lúc muốn có một khoảng riêng.
 
 > Giữa những ngày lòng nhiều gió, có một căn nhà vẫn chờ bạn thắp đèn.
+
+## Cập nhật font tiếng Việt — v0.1.1
+
+- Newsreader Regular / Italic cho tên game, tiêu đề, lời dẫn, thư.
+- Be Vietnam Pro 400 / 500 / 600 cho nút bấm, menu và hướng dẫn.
+- Font WOFF2 nằm sẵn trong `assets/fonts/`; không phụ thuộc Google Fonts/CDN khi chơi.
+- Đã đối chiếu bảng ký tự của cả 5 file font: đầy đủ nhóm chữ tiếng Việt, gồm Ă Â Đ Ê Ô Ơ Ư và U+1EA0–U+1EF9.
+- Tăng khoảng cách dòng và giảm ép khoảng cách chữ ở tiêu đề để dấu có khoảng trống.
+- Mã nguồn giữ UTF-8. Nội dung nhiệm vụ, cơ chế chơi và chia chặng giữ như bản 0.1.0.
+- Khi thay file trên website cũ, tải lại bằng Ctrl+F5 để tránh CSS được cache.
+- Giấy phép SIL Open Font License và nguồn tải nằm trong `assets/fonts/`.
+- Kiểm tra bảng ký tự không thay thế kiểm tra hình ảnh thực tế; bản này chưa được xem trực tiếp trong trình duyệt ở môi trường tạo file.
 
 ## 1. Định hướng cần giữ
 
@@ -96,7 +108,8 @@ o-day-mot-lat/
 ├── package.json                Lệnh kiểm tra tùy chọn; không cần cài dependency
 ├── assets/
 │   ├── valley.webp             Nền núi rừng nén WebP
-│   └── favicon.svg
+│   ├── favicon.svg
+│   └── fonts/                  Font WOFF2 tiếng Việt, CSS và giấy phép
 ├── vendor/
 │   ├── three.module.min.js     Three.js r180
 │   ├── three.core.min.js
